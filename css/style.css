@@ -1,0 +1,66 @@
+.menu{
+    margin-top: 30PX;
+    margin-right: 150px;
+    margin-left: 150px;
+    background-color: aquamarine;
+    height: 50px;
+    text-align: center;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+   margin-right: 20px;
+   color: blue;
+}
+
+
+.box1{
+ background-color: rgb(0, 255, 34);
+  color: rgb(0, 0, 0);
+   height: 50px; 
+   width: 150px;
+   text-align: center; 
+ margin: 30px; 20px; 30px; 30px;
+   }
+
+
+
+.button1{
+    width: 140px;
+    height: 60px;
+    background-color: rgb(208, 0, 255);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-transform: uppercase;
+    border-width: 2px solid #000000;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+
+.button1:hover{
+    border-radius: 5px; 8px; 5px; 8px;
+    background-color: blue;
+    color: white;
+    border: width 3px solid white;
+   }
+
+.button2{
+    width: 200PX;
+     height: 100px; margin-left: 30PX; 
+     background-color: chartreuse; color: black;
+}
+
+.button2:hover{
+    border-radius: 5px; 8px; 5px; 8px;
+    background-color: black;
+    color: white;
+    border: width 3px solid white;
+   }
